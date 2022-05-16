@@ -1,5 +1,5 @@
-. I
-. Love
-. Assignment
-. So
-. Much
+1. I
+2. Love
+3. Assignment
+4. So
+5. Much
